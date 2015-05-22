@@ -12,7 +12,7 @@ NOTE: this script is tested on Raspbian, a Debian for Raspberry Pi on the Raspbe
 3. Adjust the paths in the script to match your configuration
 
 ##Usage
-```tgShot.sh destinationUserName```
+```tgShot.sh destinationUserName optionalText to send before the picture```
 
 or use other commands as described in @vysheng's README for the cli to adjust the script
 
